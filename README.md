@@ -16,19 +16,20 @@ BreastCare AI is a full-stack medical imaging application designed for the early
 * **Database:** SQLAlchemy (PostgreSQL/SQLite)
 * **AI/ML:** TensorFlow/Keras, OpenCV (Trained on medical imaging datasets)
 * **Security:** SHA-256 Hashing, Environment Variables (`python-dotenv`)
-* **Environment:** Conda (macOS / MacBook Air)
+* **Environment:** Conda 
 
 ##  Project Structure
 
-```text
+```
 ├── backend.py              # Main Flask application logic
 ├── templates/              # HTML templates (landing, login, dashboard)
 ├── static/                 # CSS, JS, and image assets
 ├── models/                 # Pre-trained deep learning models (.h5)
-├── Breast_Cancer_Prediction.ipynb  # Research and training notebook
+├── Prediction.ipynb        # Research and training notebook
 ├── .env                    # Environment variables (NOT pushed to GitHub)
 └── .gitignore              # Files excluded from version control
 
+```
 
 The project first has a model build from scratch which has the model definition as --
 
