@@ -2,14 +2,14 @@
 
 BreastCare AI is a full-stack medical imaging application designed for the early detection of breast cancer. This platform integrates Deep Learning models with a secure, patient-centered web environment.
 
-## 🚀 Key Features
+##  Key Features
 
 * **AI-Powered Analysis:** Upload mammograms for real-time diagnostic predictions using DenseNet121 and EfficientNet architectures.
 * **Secure Authentication:** User data is protected using **PBKDF2 with SHA-256** password hashing.
 * **Survivor Stories:** A dedicated space for community narratives and emotional support.
 * **History Dashboard:** Securely track and review previous scan results over time.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Backend:** Flask (Python)
@@ -18,7 +18,7 @@ BreastCare AI is a full-stack medical imaging application designed for the early
 * **Security:** SHA-256 Hashing, Environment Variables (`python-dotenv`)
 * **Environment:** Conda (macOS / MacBook Air)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── backend.py              # Main Flask application logic
@@ -28,7 +28,6 @@ BreastCare AI is a full-stack medical imaging application designed for the early
 ├── BreastCare_Model.ipynb  # Research and training notebook
 ├── .env                    # Environment variables (NOT pushed to GitHub)
 └── .gitignore              # Files excluded from version control
-
 
 
 The project first has a model build from scratch which has the model definition as --
