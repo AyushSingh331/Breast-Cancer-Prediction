@@ -25,7 +25,7 @@ BreastCare AI is a full-stack medical imaging application designed for the early
 ├── templates/              # HTML templates (landing, login, dashboard)
 ├── static/                 # CSS, JS, and image assets
 ├── models/                 # Pre-trained deep learning models (.h5)
-├── BreastCare_Model.ipynb  # Research and training notebook
+├── Breast_Cancer_Prediction.ipynb  # Research and training notebook
 ├── .env                    # Environment variables (NOT pushed to GitHub)
 └── .gitignore              # Files excluded from version control
 
