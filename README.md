@@ -1,6 +1,6 @@
-# BreastCare AI: Precision Screening & Support
+# BreastCancer Prediction: Precision Screening & Support
 
-BreastCare AI is a full-stack medical imaging application designed for the early detection of breast cancer. This platform integrates Deep Learning models with a secure, patient-centered web environment.
+BreastCancer Prediction is a full-stack medical imaging application designed for the early detection of breast cancer. This platform integrates Deep Learning models with a secure, patient-centered web environment.
 
 ##  Key Features
 
